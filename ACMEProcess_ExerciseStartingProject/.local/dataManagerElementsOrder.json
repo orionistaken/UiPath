@@ -1,0 +1,68 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SavingFolderPath&Sequence_1",
+        "ACMECredentials&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ACME/ACMELogin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_URL",
+        "in_Credential"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ACME/User Options/DownloadClientandSupport.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FilePathToSave&Sequence_2",
+        "FilePathExists&Sequence_2",
+        "Counter&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_FolderPathToSave"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ACME/NavigatetoUserOptionsthenDownloadClientandSupport.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "General/CreateSavingPath.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "IsFolder&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_FolderPath"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

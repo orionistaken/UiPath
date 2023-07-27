@@ -1,0 +1,71 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SequenceA.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ValueC&Sequence_3",
+        "ValueB&Sequence_3",
+        "ValueA&Sequence_3",
+        "RowIndex&Sequence_3",
+        "dt_InputTable&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence A.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_InputTable&Sequence_2",
+        "RowIndex&Sequence_2",
+        "ValueA&Sequence_1",
+        "ValueB&Sequence_1",
+        "ValueC&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence B.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_InputTable&Sequence_1",
+        "ValueA&Sequence_2",
+        "ValueB&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence C.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_InputTable&Sequence_2",
+        "RowsCount&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
